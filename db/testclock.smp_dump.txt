@@ -1,0 +1,5 @@
+
+State Machine - |stopwatch_01|minute_counter_low
+Name minute_counter_low.1010 
+minute_counter_low.0000 0 
+minute_counter_low.1010 1 
